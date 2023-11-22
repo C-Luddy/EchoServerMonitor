@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EchoServerMonitor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files\\Oculus\\Software\\Software\\ready-at-dawn-echo-arena\\bin\\win10\\echovr.exe\" 2 120 use"
+    }
+  }
+}
