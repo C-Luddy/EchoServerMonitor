@@ -61,15 +61,6 @@ namespace EchoServerMonitor
             }
             
         }
-        private static void Process_OutputDataReceived(object sender, DataReceivedEventArgs e)
-        {
-            // Handle the received output data
-            if (!string.IsNullOrEmpty(e.Data))
-            {
-                Console.WriteLine($"Output: {e.Data}");
-
-            }
-        }
     }
 
 
